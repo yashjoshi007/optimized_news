@@ -23,7 +23,7 @@ headers = {
 
 params = (
     ('category', 'top_stories'),
-    ('max_limit', '10'),
+    ('max_limit', '20'),
     ('include_card_data', 'true')
 )
 
